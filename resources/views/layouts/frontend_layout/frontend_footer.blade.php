@@ -56,7 +56,7 @@
           <div class="row">
             <div class="col-md-6">
               <p>
-                <?php $startYear = 2020; 
+                &copy; <?php $startYear = 2020; 
               $currentYear = date('Y');
               echo $startYear;
               if ($startYear != $currentYear) {
